@@ -88,3 +88,4 @@
 2025-02-09 18:39:27 update schema migration
 2025-11-26 01:50:59 hotfix applied
 2025-10-13 13:14:16 better error handling
+2025-02-28 21:00:22 add helper function
